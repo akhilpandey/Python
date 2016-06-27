@@ -1,0 +1,11 @@
+import random
+import sys
+import os
+import math
+
+## http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/assignments/
+
+## PS1
+userInp = (input('What is your name? '))
+print("Hello %s"%(userInp))
+
